@@ -1,0 +1,90 @@
+﻿Login
+Phone:
+Code:
+Account
+Account Login List
+Choice
+Status
+Message
+Extract
+Send Message
+Group
+Setting
+Login All
+Delete
+Id
+User Name
+Channel Name
+Count
+Get
+Export
+Clear
+Extract Members
+Total
+Contact
+Channel
+First Name
+Last Name
+Group Name
+Date
+Reason
+Success
+Fail
+Exclude
+History
+Start
+Stop
+Import
+Invite
+Join
+Search
+Is Success
+Is Group
+Is Channel
+GroupUserName
+Type
+File
+Content
+MarkdownV2
+Add
+Edit
+Repeat
+All
+Contacts
+Send Settings
+Wait
+seconds after every message
+seconds after every
+message
+Invite Settings
+seconds after every user
+users
+Account Safe Settings
+Every Account Max Send
+(Stranger)
+messages(Every Days)
+Every Account Max Invite
+Users(Every Days)
+Every Account PEER_FLOOD MaxNum:
+The account is suspended
+Every Account Too many Reqest:
+Seconds Delay
+Disable Safe Settings
+Reset
+Save
+Password
+ApiId
+ApiHash
+Import Session
+Close
+Manage Account
+Edit Message
+Path
+Browser
+Group Members
+MaxNum:
+All-Slow
+Import Template
+System Settings
+Language:
+About
