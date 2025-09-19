@@ -1,0 +1,16 @@
+E:\project\TgTools\TgBulkVersion\TgSendApp\TgSendApp\bin\Debug\TgSendApp.exe.config
+E:\project\TgTools\TgBulkVersion\TgSendApp\TgSendApp\bin\Debug\TgSendApp.exe
+E:\project\TgTools\TgBulkVersion\TgSendApp\TgSendApp\bin\Debug\TgSendApp.pdb
+E:\project\TgTools\TgBulkVersion\TgSendApp\TgSendApp\bin\Debug\Krypton.Toolkit.dll
+E:\project\TgTools\TgBulkVersion\TgSendApp\TgSendApp\bin\Debug\Krypton.Toolkit.xml
+E:\project\TgTools\TgBulkVersion\TgSendApp\TgSendApp\obj\Debug\TgSendApp.csproj.AssemblyReference.cache
+E:\project\TgTools\TgBulkVersion\TgSendApp\TgSendApp\obj\Debug\TgSendApp.csproj.SuggestedBindingRedirects.cache
+E:\project\TgTools\TgBulkVersion\TgSendApp\TgSendApp\obj\Debug\TgSendApp.Properties.Resources.resources
+E:\project\TgTools\TgBulkVersion\TgSendApp\TgSendApp\obj\Debug\TgSendApp.csproj.GenerateResource.cache
+E:\project\TgTools\TgBulkVersion\TgSendApp\TgSendApp\obj\Debug\TgSendApp.csproj.CoreCompileInputs.cache
+E:\project\TgTools\TgBulkVersion\TgSendApp\TgSendApp\obj\Debug\TgSendApp.csproj.CopyComplete
+E:\project\TgTools\TgBulkVersion\TgSendApp\TgSendApp\obj\Debug\TgSendApp.exe
+E:\project\TgTools\TgBulkVersion\TgSendApp\TgSendApp\obj\Debug\TgSendApp.pdb
+E:\project\TgTools\TgBulkVersion\TgSendApp\TgSendApp\obj\Debug\TgSendApp.FrmMain.resources
+E:\project\TgTools\TgBulkVersion\TgSendApp\TgSendApp\bin\Debug\Krypton.Navigator.dll
+E:\project\TgTools\TgBulkVersion\TgSendApp\TgSendApp\bin\Debug\Krypton.Navigator.xml
